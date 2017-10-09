@@ -12,6 +12,8 @@ collaborative development on Android.
 
 
 ##Problems to be solved:
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FDroidPlugin.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FDroidPlugin?ref=badge_shield)
+
     
  1. Unable to send `Notification` with customized Resouces，eg：
  
@@ -116,3 +118,7 @@ It is very simple integrate Droid Plugin to your proejct：
 ### Thanks：
     
     Translated by Ming Song（gnosoir@hotmail.com）    
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FDroidPlugin.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FDroidPlugin?ref=badge_large)
